@@ -4,7 +4,7 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    background-color: #f9f9f9;
+    background-color: #f4f4f4;
     color: #333;
 }
 
@@ -17,11 +17,11 @@ body {
 
 /* Header Styles */
 header {
-    background: #3498db;
+    background: #34495e;
     color: #fff;
-    padding: 30px 0;
+    padding: 20px 0;
     text-align: center;
-    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
 }
 
 header .profile-photo {
@@ -49,44 +49,52 @@ header nav ul li a {
     font-size: 18px;
     padding: 5px 15px;
     border-radius: 5px;
-    transition: background 0.3s;
+    transition: background 0.3s, color 0.3s;
 }
 
 header nav ul li a:hover {
-    background: #2980b9;
+    background: #2c3e50;
+    color: #ecf0f1;
 }
 
 header .tagline {
     font-size: 20px;
     margin-top: 10px;
-    color: #ecf0f1;
+    color: #bdc3c7;
 }
 
 /* Section Styles */
 section {
     margin: 40px 0;
+    padding: 20px;
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
 }
 
 h2 {
     text-align: center;
     margin-bottom: 20px;
     font-size: 32px;
-    color: #333;
+    color: #34495e;
     border-bottom: 2px solid #3498db;
     display: inline-block;
     padding-bottom: 10px;
 }
 
+/* Portfolio Item Styles */
 .portfolio-item {
-    background: #fff;
+    background: #ecf0f1;
     padding: 20px;
     margin: 20px 0;
     border-radius: 10px;
-    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    transition: transform 0.3s;
 }
 
 .portfolio-item h3 {
     margin-top: 0;
+    color: #34495e;
 }
 
 .portfolio-item img {
@@ -95,12 +103,16 @@ h2 {
     margin-top: 10px;
 }
 
+.portfolio-item:hover {
+    transform: translateY(-5px);
+}
+
 /* Form Styles */
 form {
-    background: #fff;
+    background: #ecf0f1;
     padding: 20px;
     border-radius: 10px;
-    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
 }
 
 form label {
@@ -114,7 +126,7 @@ form textarea {
     width: 100%;
     padding: 10px;
     margin-bottom: 20px;
-    border: 1px solid #ddd;
+    border: 1px solid #ccc;
     border-radius: 5px;
     font-size: 16px;
 }
@@ -136,14 +148,14 @@ form button:hover {
 
 /* Footer Styles */
 footer {
-    background: #3498db;
+    background: #34495e;
     color: #fff;
     text-align: center;
     padding: 20px 0;
     position: relative;
     bottom: 0;
     width: 100%;
-    box-shadow: 0 -2px 4px rgba(0,0,0,0.1);
+    box-shadow: 0 -4px 8px rgba(0,0,0,0.1);
 }
 
 footer p {
