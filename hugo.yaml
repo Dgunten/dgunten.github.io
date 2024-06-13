@@ -1,4 +1,4 @@
-baseURL: https://example.org/
+baseURL: "https://Dgunten.github.io/dgunten.github.io/"
 languageCode: en-us
 title: Devin von Gunten
 theme: 'hugo-profile'
