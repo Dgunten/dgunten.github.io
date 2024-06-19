@@ -127,7 +127,7 @@ params:
     title: "Devin."
     subtitle: "I drive success for my clients."
     content: "I am a seasoned Product Digital Marketing Manager who spearheads comprehensive marketing strategies tailored to the nuanced needs of global institutional investors."
-    image: "/heroimage.jpeg"
+    image: "/headshot.jpg"
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
@@ -148,14 +148,15 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "/heroimage.jpeg"
+    image: "/hikephoto.jpg"
     content: |-
-      I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. 
+      I am currently a Product Digital Marketing Manager at TMX Datalinx, where I spearhead comprehensive marketing strategies tailored to the nuanced needs of global institutional investors.
+      
+      With over 8 years of hands-on experience in digital marketing, specializing in product marketing, digital analytics, lead generation, and leveraging digital channels within the capital markets industry, I bring a unique blend of creativity and analytical rigor to every campaign. 
 
-      I am currently working on a project that will be used to help people find the best way to get around the city.
     skills:
       enable: true
-      title: "Here are a few technologies and software I've been working with recently:"
+      title: "Here are a few technologies and software I'm actively using:"
       items:
         - "HTML"
         - "CSS"
@@ -163,6 +164,8 @@ params:
         - "Python"
         - "SQL"
         - "Excel"
+        - "Google Data Studio"
+        - "Flourish"
         - "Adobe Suite"
         - "Canva"
 
@@ -179,10 +182,14 @@ params:
           enable: true
           content: Wall Street Horizon was acquired by TMX Group in November of 2022.
         content:  |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+          I am currently a Product Digital Marketing Manager at TMX Datalinx which is the data arm of the Toronto & Montreal stock exchanges. We provide global market and corporate event data to insitutional investors & traders.
 
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
+          -	Help orchestrate go-to-market strategies, including product narratives, prospect targeting, and messaging oversight
+          -	Lead execution of paid social, paid search, email, and SEO strategies, driving consistent brand visibility and lead generation
+          -	Create and update product collateral PDFs and pages to highlight key features, benefits, and use-cases for sales support.
+          -	Utilize data from Google Analytics and Search Console displayed in Data Studio for actionable campaign insights
+          -	Employ SQL and Excel to extract and analyze our data products for content/marketing campaigns
+
 
       - job: "Digital Marketing Specialist"
         company: "Wall Street Horizon"
@@ -207,12 +214,17 @@ params:
           enable: false
           url: "https://example.com"
         content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+          I previously worked at Exclusive Concepts, now Adigital, which is a leading digital marketing agency. I was one of the first members of the Social Media Marketing team and helped grow the program.
 
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
+          - Manage social media advertising for multiple different e-commerce companies from numerous industries and sizes, up to a 400 million dollar business. 
+          - Create graphically designed images for social media postings and advertisements
+          - Complete extensive audience research for in-depth targeting on behalf of clients 
+          - Build out paid social campaigns across Facebook, Instagram, Pinterest and more 
+          - Monitor, optimize, and report on campaign performance directly to clients and maintain successful relationships with clients
+          - Develop new strategies on social platforms to enhance social program
+          - Assist in developing training for new hires and onboarding of new specialists
 
-      - job: "UI/UX Designer"
+      - job: "Social Media Specialist"
         company: "EVR Advertising"
         companyUrl: "https://www.evradvertising.com"
         date: "Dec 2016 - May 2017"
@@ -220,10 +232,7 @@ params:
           enable: false
           url: "https://example.com"
         content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
-
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
+          Created strategic digital marketing plans for clients, analyzed social trends to identify best items to discuss that would gather the most attention, increase overall customer engagement with clients, creating monthly content calendars for all clients. 
 
 
   # Education
@@ -264,7 +273,7 @@ params:
 
   # projects
   projects:
-    enable: true
+    enable: false
     # title: "Custom Name"
     items:
       - title: Hugo Profile
