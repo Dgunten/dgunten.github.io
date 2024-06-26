@@ -139,10 +139,10 @@ params:
       newPage: false
     socialLinks:
       fontAwesomeIcons:
-        - icon: fab fa-github
-          url: https://github.com/Dgunten
         - icon: fab fa-linkedin
           url: https://www.linkedin.com/in/devinvongunten/
+        - icon: fab fa-github
+          url: https://github.com/Dgunten
 
   # About
   about:
@@ -182,12 +182,12 @@ params:
           enable: true
           content: Wall Street Horizon was acquired by TMX Group in November of 2022.
         content:  |
-          I am currently a Product Digital Marketing Manager at TMX Datalinx which is the data arm of the Toronto & Montreal stock exchanges. We provide global market and corporate event data to insitutional investors & traders.
+          I am currently a Product Digital Marketing Manager at TMX Datalinx which is the data arm of the Toronto & Montreal stock exchanges. TMX Datalinx provides a broad range of data products and services to institutional investors and traders around the globe.
 
-          -	Help orchestrate go-to-market strategies, including product narratives, prospect targeting, and messaging oversight
-          -	Lead execution of paid social, paid search, email, and SEO strategies, driving consistent brand visibility and lead generation
-          -	Create and update product collateral PDFs and pages to highlight key features, benefits, and use-cases for sales support.
-          -	Utilize data from Google Analytics and Search Console displayed in Data Studio for actionable campaign insights
+          -	Help orchestrate go-to-market strategies, including product narratives, prospect targeting, messaging oversight, and research
+          -	Create and manage marketing campaigns across multiple channels (email, social, google adwords, content marketing)
+          -	Maintain product collateral PDFs and product pages to highlight key features, benefits, and use-cases for sales support.
+          -	Utilize data from Google Analytics, Search Console and more displayed in Data Studio for actionable campaign insights
           -	Employ SQL and Excel to extract and analyze our data products for content/marketing campaigns
 
 
@@ -199,10 +199,15 @@ params:
           enable: true
           content: Wall Street Horizon was acquired by TMX Group in November of 2022.
         content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+          I previously worked for Wall Street Horizon which provided global corporate event data to institutional investors. We were acquired by TMX Group in November of 2022.
 
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
+          -	Lead execution of paid social, paid search, email, and SEO strategies, driving consistent brand visibility and lead generation
+          -	Leveraged marketing automation through Salesforce and Pardot
+          -	Utilized data from Google Analytics and Search Console displayed in Data Studio for actionable campaign insights/reporting
+          -	Designed high-quality landing pages and graphics for effective paid advertising
+          -	Performed ongoing keyword research and continually optimize landing pages to elevate SEO performance
+          - Built out full digital marketing strategy from the ground up
+
 
       - job: "Senior Social Media Specialist"
         company: "Exclusive Concepts"
@@ -254,22 +259,21 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - title: Google kickstart runner
-        content: I solved all problems with optimal solution.
-        url: https://example.com
-        image: /images/achievment.jpg
-      - title: Facebook Hackathon Winner
-        content: Developed a product using Artificial Intelligence.
-        image: /images/achievment.jpg
-      - title: Hugo Profile
-        content: Developed a theme and getting 1K+ downloads per month.
-        url: "https://github.com/gurusabarish/hugo-profile"
-        image: /images/achievment.jpg
-      - title: Microsoft Imagine Runner
-        content: We are developed a product which can help others.
-      - title: Google Summer of Code
-        content: Contributed to a open source project.
-        url: https://example.com
+      - title: TMX Group | Drove 180% increase in new lead generation. 
+        content: Helped orchestrate quarterly virtual industry panels and lead execution of event marketing strategy. Increased product/data set expertise for enhanced digital and product marketing content.
+        url: 
+        image: 
+      - title: Wall Street Horizon | Increased organic traffic YoY by 200-400% consistently for 3 years. 
+        content: Conducted keyword research and created landing pages targeting high traffic keywords with low competition. Implemented consistent site-wide optimizations for enhanced organic search performance on key pages.
+        image: 
+      - title: Wall Street Horizon | Increased prospect engagement by 20% while creating new actionable leads
+        content: Created a multi-step automated email marketing campaign featuring recent content and research, updated on a quarterly basis.
+        url: 
+        image: 
+      - title: Exclusive Concepts | Increased monthly spend on paid social advertising by 10x over a 10 month period while maintaining ROA.
+        content: Built out multiple category specific campaigns and created product specific campaigns around top sellers, new products, and high AOV items.
+
+
 
   # projects
   projects:
@@ -342,8 +346,8 @@ params:
       enable: true
       disableFeaturedImage: false
     socialNetworks:
-      github: https://github.com
-      linkedin: https://linkedin.com
+      github: https://github.com/Dgunten
+      linkedin: https://www.linkedin.com/in/devinvongunten/
 
 
   # List pages like blogs and posts
