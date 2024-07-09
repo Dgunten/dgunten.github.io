@@ -134,7 +134,7 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "#"
+      url: "/240625_Devin_von_Gunten_Resume.pdf" 
       download: true
       newPage: false
     socialLinks:
