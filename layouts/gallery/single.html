@@ -11,13 +11,15 @@
       {{- $images := .Resources.ByType "image" -}}
       {{ range $images }}
       <div class="col-6 col-md-4 col-xl-3 pb-3 px-2">
-        <img src="{{ .RelPermalink }}" height="{{ .Height }}" width="{{ .Width }}" alt="Gallery Image" class="img-fluid">
+        <img src="{{ .RelPermalink }}" height="{{ .Height }}" width="{{ .Width }}" alt="Gallery Image" id="zoom-default" class="img-fluid">
       </div>
       {{ end }}
     </div>
   </div>
 </section>
 <script src="https://cdn.jsdelivr.net/npm/masonry-layout@4.2.2/dist/masonry.pkgd.min.js" integrity="sha384-GNFwBvfVxBkLMJpYMOABq3c+d3KnQxudP/mGPkzpZSTYykLBNsZEnG2D9G/X/+7D" crossorigin="anonymous" async></script>
-
+<script src="https://cdn.jsdelivr.net/npm/medium-zoom@1.0.6/dist/medium-zoom.min.js" defer></script>
+<script src="/js/zoom-image/placeholders.js" defer></script>
+<script src="/js/zoom-image/index.js" defer></script>
 
 {{ end }}
