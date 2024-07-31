@@ -125,7 +125,7 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Devin."
-    subtitle: "I drive success for my clients."
+    subtitle: "I drive growth through innovation."
     content: "I am a seasoned Product Digital Marketing Manager who spearheads comprehensive marketing strategies tailored to the nuanced needs of global institutional investors."
     image: "/headshot.jpg"
     bottomImage:
@@ -134,7 +134,7 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "/240625_Devin_von_Gunten_Resume.pdf" 
+      url: "/240625_Devin_von_Gunten_Resume.pdf"
       download: true
       newPage: false
     socialLinks:
