@@ -13,7 +13,7 @@ outputs:
     - "RSS"
 
 Paginate: 3
-enableRobotsTXT: false
+enableRobotsTXT: true
 # disqusShortname: your-disqus-shortname
 # googleAnalytics: G-MEASUREMENT_ID
 
@@ -126,7 +126,7 @@ params:
     intro: "Hi, my name is"
     title: "Devin."
     subtitle: "I drive growth through innovation."
-    content: "I am a seasoned Product Marketing Manager who spearheads comprehensive marketing strategies tailored to the nuanced needs of global institutional investors."
+    content: "I am a seasoned Digital & Product Marketing Manager who spearheads comprehensive marketing strategies tailored to the nuanced needs of global institutional investors."
     image: "/headshot.jpg"
     bottomImage:
       enable: true
@@ -150,7 +150,7 @@ params:
     title: "About Me"
     image: "/hikephoto.jpg"
     content: |-
-      I am currently a Product Digital Marketing Manager at TMX Datalinx, where I spearhead comprehensive marketing strategies tailored to the nuanced needs of global institutional investors.
+      I am currently a Digital & Product Marketing Manager at TMX Datalinx, where I spearhead comprehensive marketing strategies tailored to the nuanced needs of global institutional investors.
       
       With over 8 years of hands-on experience in digital marketing, specializing in product marketing, digital analytics, lead generation, and leveraging digital channels within the capital markets industry, I bring a unique blend of creativity and analytical rigor to every campaign. 
 
@@ -174,7 +174,7 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - job: "Digital Marketing Manager, Product"
+      - job: "Digital & Product Marketing Manager"
         company: "TMX Group"
         companyUrl: "https://www.tmx.com"
         date: "Nov 2022 - present"
@@ -182,13 +182,15 @@ params:
           enable: true
           content: Wall Street Horizon was acquired by TMX Group in November of 2022.
         content:  |
-          I am currently a Product Digital Marketing Manager at TMX Datalinx which is the data arm of the Toronto & Montreal stock exchanges. TMX Datalinx provides a broad range of data products and services to institutional investors and traders around the globe.
+          I am currently a Digital & Product Marketing Manager on the product marketing team at TMX Datalinx which is the data arm of the Toronto & Montreal stock exchanges. TMX Datalinx provides a broad range of data products and services to institutional investors and traders around the globe.
 
-          -	Help orchestrate go-to-market strategies, including product narratives, prospect targeting, messaging oversight, and research
-          -	Create and manage marketing campaigns across multiple channels (email, social, google adwords, content marketing)
-          -	Maintain product collateral PDFs and product pages to highlight key features, benefits, and use-cases for sales support.
-          -	Utilize data from Google Analytics, Search Console and more displayed in Data Studio for actionable campaign insights
-          -	Employ SQL and Excel to extract and analyze our data products for content/marketing campaigns
+          - Help orchestrate go-to-market strategies, including product narratives, prospect targeting, messaging oversight, and research 
+          - Maintain product collateral PDFs and product pages to highlight key features, benefits, and use-cases for sales support 
+          - Create sales enablement materials and train sales teams on product value propositions 
+          - Collaborate with product management to define product positioning and messaging aligned with target audience needs 
+          - Create and manage marketing campaigns across multiple channels (email, social, google AdWords, content marketing) 
+          - Utilize data from Google Analytics, Search Console and more displayed in Data Studio for actionable campaign insights 
+          - Employ SQL and Excel to extract and analyze our data products for content/marketing campaigns 
 
 
       - job: "Digital Marketing Specialist"
@@ -253,6 +255,8 @@ params:
         date: "2014 - 2017"
         GPA: "3.8 out of 4.0"
         content: Completed a degree-in-three program through experience based learning to achieve a bachelor's degree in three years rather than four.
+
+
 
   # Achievements
   achievements:

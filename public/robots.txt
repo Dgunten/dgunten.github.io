@@ -1,1 +1,19 @@
 User-agent: *
+
+Disallow: /gallery/
+
+Disallow: /
+
+Disallow: /blogs/
+
+Disallow: /tags/emoji-support/
+
+Disallow: /blogs/emoji-support/
+
+Disallow: /tags/example/
+
+Disallow: /tags/sample/
+
+Disallow: /tags/
+
+Disallow: /categories/
