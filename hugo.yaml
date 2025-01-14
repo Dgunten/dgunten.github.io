@@ -184,12 +184,13 @@ params:
         content:  |
           I am currently a Digital & Product Marketing Manager on the product marketing team at TMX Datalinx which is the data arm of the Toronto & Montreal stock exchanges. TMX Datalinx provides a broad range of data products and services to institutional investors and traders around the globe.
 
-          - Orchestrate go-to-market strategies, including product narratives and messaging oversight, leading to the recent launch of new product group with 20+ initial sales opportunities  
-          - Drove a 180% increase in new web lead generation YoY through a comprehensive redesign of product pages that enhanced user experience while encouraging information requests  
-          - Develop high-impact sales collateral in collaboration with product managers, highlighting key data specifications for targeted marketing campaigns and sales support  
-          - Generate 100+ qualified leads per event through quarterly virtual industry panels, coordinating educational sessions featuring industry expert and handing event marketing strategy 
-          - Utilize data from GA4, Search Console and more displayed in Looker Studio for actionable campaign insights
-          - Employ SQL and Excel to extract and analyze our data products for content/marketing campaigns 
+          - Orchestrate go-to-market strategies, including product narratives and messaging oversight, leading to the recent launch of a new product group with 20+ initial sales opportunities
+          -	Drove a 180% increase in new web lead generation YoY through a comprehensive redesign of every product page which enhanced user experience while encouraging information request form submissions
+          -	Develop high-impact sales collateral in collaboration with product managers, highlighting key data specifications for targeted marketing campaigns and sales support
+          -	Generate 100+ qualified leads per event through quarterly virtual industry panels, coordinating educational sessions featuring industry experts and handling event marketing strategy
+          -	Utilize data from GA4 and Search Console visualized in Looker Studio to derive actionable campaign insights
+          -	Employ SQL and Excel to extract and analyze our data products for content/marketing campaigns
+
 
 
       - job: "Digital Marketing Specialist"
@@ -202,11 +203,12 @@ params:
         content: |
           I previously worked for Wall Street Horizon which provided global corporate event data to institutional investors. We were acquired by TMX Group in November of 2022.
 
-          -	Led execution of paid social, search, email, and SEO strategies, achieving a 300% YoY increase in organic traffic through targeted keyword research and site-wide optimizations for three years in a row 
-          - Generated 25% more sales opportunities per quarter through marketing automation using Salesforce and Pardot, designed to maintain engagement with timely content and research 
-          - Designed high-quality landing pages and graphics for effective paid advertising
-          - Performed ongoing keyword research and continually optimized landing pages to elevate SEO performance
-          - Built out full digital marketing strategy from the ground up  
+          -	Led execution of paid social, search, email, and SEO strategies, enhancing our market share against competitors
+          -	Performed targeted keyword research and continually optimized landing pages to elevate SEO performance, achieving a 2-300% YoY increase in organic traffic for four years in a row
+          -	Generated 25% more new sales opportunities per quarter through marketing automation using Salesforce and Pardot, designed to maintain engagement with timely content and research
+          -	Designed high-quality landing pages and graphics for effective paid advertising
+          -	Built out full digital marketing strategy from the ground up
+
 
 
 
@@ -270,7 +272,7 @@ params:
         content: Coordinated educational panels featuring industry experts, strategically highlighting the relevance of our data offerings. Lead end-to-end event marketing strategy, from concept development to lead generation and follow-up.
         url: 
         image: 
-      - title: Wall Street Horizon | Drove 200-400% YoY increase in organic traffic for three consecutive years
+      - title: Wall Street Horizon | Drove 2-300% YoY increase in organic traffic for three consecutive years
         content: Built out multiple category specific campaigns and created product specific campaigns around top sellers, new products, and high AOV items.
       - title: Wall Street Horizon | Accelerated 25% of existing prospects up sales funnel into opportunities via automated email campaigns
         content: Designed and executed quarterly multi-step automated email marketing campaigns featuring timely content and research. Strategically curated and updated campaign content to maintain relevance and drive engagement.
