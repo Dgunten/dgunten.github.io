@@ -134,7 +134,7 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "Devin_von_Gunten_Resume_240908.pdf"
+      url: "Devin_von_Gunten_Resume_250113.pdf"
       download: true
       newPage: false
     socialLinks:
@@ -152,7 +152,7 @@ params:
     content: |-
       I am currently a Digital & Product Marketing Manager at TMX Datalinx, where I spearhead comprehensive marketing strategies tailored to the nuanced needs of global institutional investors.
       
-      With over 8 years of hands-on experience in digital marketing, specializing in product marketing, digital analytics, lead generation, and leveraging digital channels within the capital markets industry, I bring a unique blend of creativity and analytical rigor to every campaign. 
+      With over 7 years of hands-on experience in digital marketing, specializing in product marketing, digital analytics, lead generation, and leveraging digital channels within the capital markets industry, I bring a unique blend of creativity and analytical rigor to every campaign and thrive in fast-paced environments. 
 
     skills:
       enable: true
@@ -184,12 +184,11 @@ params:
         content:  |
           I am currently a Digital & Product Marketing Manager on the product marketing team at TMX Datalinx which is the data arm of the Toronto & Montreal stock exchanges. TMX Datalinx provides a broad range of data products and services to institutional investors and traders around the globe.
 
-          - Help orchestrate go-to-market strategies, including product narratives, prospect targeting, messaging oversight, and research 
-          - Maintain product collateral PDFs and product pages to highlight key features, benefits, and use-cases for sales support 
-          - Create sales enablement materials and train sales teams on product value propositions 
-          - Collaborate with product management to define product positioning and messaging aligned with target audience needs 
-          - Create and manage marketing campaigns across multiple channels (email, social, google AdWords, content marketing) 
-          - Utilize data from Google Analytics, Search Console and more displayed in Data Studio for actionable campaign insights 
+          - Orchestrate go-to-market strategies, including product narratives and messaging oversight, leading to the recent launch of new product group with 20+ initial sales opportunities  
+          - Drove a 180% increase in new web lead generation YoY through a comprehensive redesign of product pages that enhanced user experience while encouraging information requests  
+          - Develop high-impact sales collateral in collaboration with product managers, highlighting key data specifications for targeted marketing campaigns and sales support  
+          - Generate 100+ qualified leads per event through quarterly virtual industry panels, coordinating educational sessions featuring industry expert and handing event marketing strategy 
+          - Utilize data from GA4, Search Console and more displayed in Looker Studio for actionable campaign insights
           - Employ SQL and Excel to extract and analyze our data products for content/marketing campaigns 
 
 
@@ -203,12 +202,12 @@ params:
         content: |
           I previously worked for Wall Street Horizon which provided global corporate event data to institutional investors. We were acquired by TMX Group in November of 2022.
 
-          -	Lead execution of paid social, paid search, email, and SEO strategies, driving consistent brand visibility and lead generation
-          -	Leveraged marketing automation through Salesforce and Pardot
-          -	Utilized data from Google Analytics and Search Console displayed in Data Studio for actionable campaign insights/reporting
-          -	Designed high-quality landing pages and graphics for effective paid advertising
-          -	Performed ongoing keyword research and continually optimize landing pages to elevate SEO performance
-          - Built out full digital marketing strategy from the ground up
+          -	Led execution of paid social, search, email, and SEO strategies, achieving a 300% YoY increase in organic traffic through targeted keyword research and site-wide optimizations for three years in a row 
+          - Generated 25% more sales opportunities per quarter through marketing automation using Salesforce and Pardot, designed to maintain engagement with timely content and research 
+          - Designed high-quality landing pages and graphics for effective paid advertising
+          - Performed ongoing keyword research and continually optimized landing pages to elevate SEO performance
+          - Built out full digital marketing strategy from the ground up  
+
 
 
       - job: "Senior Social Media Specialist"
@@ -223,13 +222,11 @@ params:
         content: |
           I previously worked at Exclusive Concepts, now Adigital, which is a leading digital marketing agency. I was one of the first members of the Social Media Marketing team and helped grow the program.
 
-          - Manage social media advertising for multiple different e-commerce companies from numerous industries and sizes, up to a 400 million dollar business. 
-          - Create graphically designed images for social media postings and advertisements
-          - Complete extensive audience research for in-depth targeting on behalf of clients 
-          - Build out paid social campaigns across Facebook, Instagram, Pinterest and more 
-          - Monitor, optimize, and report on campaign performance directly to clients and maintain successful relationships with clients
-          - Develop new strategies on social platforms to enhance social program
-          - Assist in developing training for new hires and onboarding of new specialists
+          - Managed paid social advertising campaigns for 20+ firms across diverse industries, resulting in an average of 20% increase in client target ROI 
+          - Developed data-driven audience targeting strategies, improving click-through rates by 40% on average 
+          - Created and executed innovative social media strategies that increased monthly sales by 50% on average 
+          - Designed comprehensive training materials that reduced onboarding time for new marketing specialists 
+          - Conducted in-depth audits for 50+ prospect accounts, presenting findings during sales calls 
 
       - job: "Social Media Specialist"
         company: "EVR Advertising"
@@ -263,7 +260,7 @@ params:
     enable: true
     title: "Achievements/Projects"
     items:
-      - title: TMX Group | Assisted in new product category launch, generating 10+ initial sales opportunities
+      - title: TMX Group | Assisted in new product category launch, generating 20+ initial sales opportunities
         content: Orchestrated comprehensive redesign of core product group landing page to enhance user experience and drive conversions. Collaborated with product managers to develop high-impact sales collateral highlighting key data specifications. Crafted targeted messaging for pre-launch sales and marketing campaigns, tailored to diverse personas and global markets.
         image: 
       - title: TMX Group | Drove 180% increase in new web lead generation YoY 
@@ -275,7 +272,7 @@ params:
         image: 
       - title: Wall Street Horizon | Drove 200-400% YoY increase in organic traffic for three consecutive years
         content: Built out multiple category specific campaigns and created product specific campaigns around top sellers, new products, and high AOV items.
-      - title: Wall Street Horizon | Accelerated 15% of existing prospects up sales funnel via automated email campaigns
+      - title: Wall Street Horizon | Accelerated 25% of existing prospects up sales funnel into opportunities via automated email campaigns
         content: Designed and executed quarterly multi-step automated email marketing campaigns featuring timely content and research. Strategically curated and updated campaign content to maintain relevance and drive engagement.
 
 
