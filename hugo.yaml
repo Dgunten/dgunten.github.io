@@ -229,18 +229,40 @@ params:
 
   # projects
   projects:
-    enable: false
+    enable: true
+    title: "Projects"
     items:
-      - title: Hugo Profile
-        content: A highly customizable and mobile first Hugo template for personal portfolio and blog.
-        image: /images/projects/profile.png
-        featured:
-          name: Demo
-          link: https://hugo-profile.netlify.app
+      - title: Scaled Growth Model
+        content: Architected a unified scaled growth model linking message creation directly to pipeline hand-off, using digital-first campaigns, trigger-based account engagement, and automated SDR tooling (SalesLoft, Piper AI) to optimize account coverage and eliminate lead decay across house accounts representing 15% of total business revenue.
+        image: /gallery/Data%20Strategies%20to%20Prepare%20Portfolios%20for%20Volatility.png
         badges:
-          - "Hugo"
-          - "Bootstrap"
-          - "Javascript"
+          - "SalesLoft"
+          - "Piper AI"
+          - "Salesforce"
+
+      - title: Dual-Layer Messaging Framework
+        content: Designed a structured messaging framework separating buyer-facing value narratives from an AI-optimized technical metadata layer, reducing sales support tickets and accelerating onboarding for new sales reps.
+        image: /gallery/Q1%202024%20Buyback%20and%20Dividend%20Increases%20Point%20to%20Improving%20Corporate%20Sentiment.png
+        badges:
+          - "AI"
+          - "Messaging"
+          - "Sales Enablement"
+
+      - title: Research-Led Content & SEO Engine
+        content: Built the company's first research-led content and SEO strategy from scratch, driving 200-300% YoY organic traffic growth for four consecutive years and expanding penetration into institutional fintech segments.
+        image: /gallery/Stock%20Buybacks%20Under%20Attack%20Tracking%20Share%20Repurchase%20Events%20Ahead%20Of%202023.png
+        badges:
+          - "SEO"
+          - "Content Strategy"
+          - "Research"
+
+      - title: Quarterly Virtual Industry Panels
+        content: Plan and host quarterly virtual panels on earnings season and market structure trends, generating 150+ qualified leads per event.
+        image: /gallery/Where%20are%20they%20now%20Q2%202023.png
+        badges:
+          - "Events"
+          - "Lead Generation"
+          - "Market Structure"
 
   #Contact
   contact:
