@@ -8,7 +8,16 @@
       </div>
     </div>
     <div class="row" data-masonry='{"percentPosition": true }'>
-      {{- $images := .Resources.ByType "image" -}}
+      {{- $images := slice -}}
+      {{- if .Params.images -}}
+        {{- range .Params.images -}}
+          {{- with $.Resources.Get . -}}
+            {{- $images = $images | append . -}}
+          {{- end -}}
+        {{- end -}}
+      {{- else -}}
+        {{- $images = .Resources.ByType "image" -}}
+      {{- end -}}
       {{ range $images }}
       <div class="col-6 col-md-4 col-xl-3 pb-3 px-2">
         <img src="{{ .RelPermalink }}" height="{{ .Height }}" width="{{ .Width }}" alt="Gallery Image" id="zoom-default" class="img-fluid">
