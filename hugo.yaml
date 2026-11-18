@@ -37,7 +37,7 @@ Menus:
 
 params:
   title: "Devin von Gunten"
-  description: Text about my cool site
+  description: Senior Manager, Commercial Product Marketing & Scaled Growth at TMX Datalinx — translating complex financial data products into narratives that drive enterprise pipeline.
   favicon: "/dlogosquare.png"
 
   useBootstrapCDN: false
@@ -76,15 +76,15 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Devin."
-    subtitle: "Product Marketing Manager | Capital Markets & Market Data"
-    content: "I translate complex financial data products into differentiated narratives that drive enterprise pipeline. With 8+ years of experience in capital markets, I specialize in go-to-market strategy, positioning, and sales enablement for institutional investors and traders."
+    subtitle: "Senior Manager, Commercial Product Marketing & Scaled Growth | Capital Markets & Market Data"
+    content: "I translate complex financial data products into differentiated narratives that drive enterprise pipeline. With 9+ years of experience in capital markets, I lead product marketing and commercial execution for TMX Datalinx, managing a team of three and building scaled growth programs for institutional investors and traders."
     image: "/headshot.jpg"
     bottomImage:
       enable: true
     button:
       enable: true
       name: "Resume"
-      url: "Devin_von_Gunten_Resume_260302.pdf"
+      url: "Devin_von_Gunten_Resume_261016.pdf"
       download: true
       newPage: false
     socialLinks:
@@ -100,9 +100,9 @@ params:
     title: "About Me"
     image: "/hikephoto.jpg"
     content: |-
-      I am a Product Marketing Manager at TMX Datalinx — the data arm of the Toronto & Montreal stock exchanges — where I own positioning, go-to-market strategy, and sales enablement for institutional market data and analytics products serving hedge funds, asset managers, exchanges, and trading platforms.
+      I am a Senior Manager, Commercial Product Marketing & Scaled Growth at TMX Datalinx — the data arm of the Toronto & Montreal stock exchanges — where I lead product marketing and direct commercial execution, managing a team of three across sales enablement and account development. I own positioning, go-to-market strategy, and sales enablement for institutional market data and analytics products serving hedge funds, asset managers, exchanges, and trading platforms.
 
-      With 8+ years of experience spanning capital markets and market data, I specialize in translating complex APIs and proprietary datasets into differentiated narratives that drive enterprise pipeline and contract wins. I bring deep expertise in market structure and institutional trading workflows, combined with technical fluency in SQL, Python, and AI-enabled systems.
+      With 9+ years of experience spanning capital markets and market data, I specialize in translating complex APIs and proprietary datasets into differentiated narratives that drive enterprise pipeline and contract wins. I bring deep expertise in market structure and institutional trading workflows, combined with technical fluency in SQL, Python, and AI-enabled systems.
 
     skills:
       enable: true
@@ -114,20 +114,37 @@ params:
         - "Looker Studio"
         - "Tableau"
         - "Salesforce"
+        - "SalesLoft / AI SDR Tools"
         - "Pardot (Marketing Cloud)"
         - "Ahrefs"
         - "WordPress"
         - "Adobe Creative Suite"
         - "Advanced Excel"
+        - "RAG Architecture & Prompt Engineering"
 
   # Experience
   experience:
     enable: true
     items:
+      - job: "Senior Manager, Commercial Product Marketing & Scaled Growth"
+        company: "TMX Group"
+        companyUrl: "https://www.tmx.com"
+        date: "Sep 2026 - present"
+        info:
+          enable: true
+          content: Promoted to lead product marketing and commercial execution for TMX Datalinx.
+        content: |
+          Lead product marketing and direct commercial execution for TMX Datalinx, bridging product strategy, sales enablement, and digital automation to maximize pipeline and GTM efficiency across capital markets segments.
+
+          - Manage a team of three direct reports (a Sales Enablement Specialist and two Account Development Managers), driving outreach, lead qualification, and pipeline development across house accounts representing 15% of total business revenue
+          - Architect a unified "Scaled Growth" model linking message creation directly to pipeline hand-off, using digital-first campaigns, trigger-based account engagement, and automated SDR tooling (SalesLoft, Piper AI) to optimize account coverage and eliminate lead decay
+          - Spearhead sales campaign enablement, producing foundational messaging frameworks, battlecards, sales decks, and objection-handling collateral for the broader enterprise sales organization
+          - Establish cross-platform business data management strategies in Salesforce to unify client views, improve cross-sell insight targeting, and report on pipeline health and campaign ROI
+
       - job: "Product Marketing Manager"
         company: "TMX Group"
         companyUrl: "https://www.tmx.com"
-        date: "Nov 2022 - present"
+        date: "Nov 2022 - Aug 2026"
         info:
           enable: true
           content: Wall Street Horizon was acquired by TMX Group in November of 2022.
@@ -195,6 +212,8 @@ params:
     enable: true
     title: "Achievements/Projects"
     items:
+      - title: TMX Group | Promoted to Senior Manager, leading commercial product marketing & scaled growth
+        content: Lead product marketing and a team of three for TMX Datalinx, architecting a unified scaled growth model that links messaging directly to pipeline hand-off across house accounts representing 15% of total business revenue.
       - title: TMX Group | Led new product category launch, generating 20+ enterprise sales opportunities in Q1
         content: Orchestrated end-to-end go-to-market strategy aligning Product, Sales, and Research. Developed outcome-based positioning and messaging tailored to institutional buyer personas, and created high-impact sales collateral highlighting key data specifications and workflow integration benefits.
       - title: TMX Group | Drove 180% increase in inbound web leads YoY
